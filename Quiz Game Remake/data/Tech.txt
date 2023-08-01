@@ -1,0 +1,10 @@
+Any of the folling handles the data into information ? ,a)RAM,b)DVD,c)CPU,d)CV,C
+The smallest piece of data a computer can work with as a.....? ,a)GB,b)Gbps,c)bit,d)byte,C
+The.....is the printed circuit board that contains the electrical circuitry for the computer. ,a)Power_supply,b)Matherboard,c)Drive_bays,d)cooling_fan,B
+Hard disks record data on concentric bands called.... ,a)sactors,b)cluster,c)trscks,d)NTFS,C
+What's on the Motherboard ? ,a)store,b)monitor,c)printer,d)mouse,A
+Temporarily stores data and instructions to be used by the central processing unit? ,a)ROM,b)RAM,c)LAU,d)cpu,B
+The second operation of the information processing cycle,converts data into information. ,a)processing,b)Input,c)storge,d)output,A
+Which of the folling is the name of the computer inventor? ,a)Thomas_Edison,b)Charles_Babbage,c)John_peirce,d)Nicolas_Joseph,B
+Which is used to turn the computer on? ,a)Function_keys,b)cache_memory,c)Power_switch,d)key_matrix,C
+THE owner of TESLA company ,a)billgates,b)elonmusk,c)jeffbezos,d)donaldtrump,B
